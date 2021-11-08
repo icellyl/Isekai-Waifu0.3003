@@ -19,4 +19,5 @@ public class GeradorDeEventos {
         }
         return resultadoDoAtaque;
     }
+    //oioioi
 }
